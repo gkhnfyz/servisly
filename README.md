@@ -35,6 +35,7 @@
 
 Servisly için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
+- 📄 **Ürün sayfası:** [tumabilisim.com/urun/servisly](https://tumabilisim.com/urun/servisly)
 - 🌐 **Teklif formu:** [tumabilisim.com/iletisim](https://tumabilisim.com/iletisim?urun=Servisly)
 - 💬 **WhatsApp:** [+90 533 432 15 12](https://wa.me/905334321512?text=Merhaba%2C%20Servisly%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum.)
 - ✉️ **E-posta:** [info@tumabilisim.com](mailto:info@tumabilisim.com?subject=Servisly%20hakk%C4%B1nda)
@@ -50,7 +51,7 @@ Servisly için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
 **Servisly** — All-in-one café & restaurant POS: floor plan, fast touch ordering, kitchen display system, QR self-ordering, split bills, recipes & stock, reservations and Z reports. Installed on your own server — no monthly rent.
 
-Live product: https://servisly.tumabilisim.com/ · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
+Live product: https://servisly.tumabilisim.com/ · Product page: https://tumabilisim.com/urun/servisly · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
 
 </details>
 
